@@ -1,0 +1,2 @@
+# 1955201278_UTS_JAVA_03
+Pada project sederhana yang saya buat ini melibatkan I/O,Percabangan dan Perulangan.Pada project diatas ketika program dijalankan maka pada tampilan output meminta kita untuk menginput Nama dan Nilai ,Misal"Nama:Beta,dan nilai yang saya inputkan 85 kemudian program dilanjutkan untuk dieksekusi dan menampilkan perulangan dengan kalimat "Tingkatkan Belajar anda"kemudian nama tersebut dinyatakan Lulus dan jika tidak memenuhi syarat >=70 maka tampilan menyatakan "Maaf Beta Anda Gagal".
